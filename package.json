@@ -1,0 +1,17 @@
+{
+  "name": "erlangc-calculation",
+  "version": "0.0.1",
+  "description": "Librery to calculate FTE, Service level, ABN, OCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "erlangc",
+    "FTE",
+    "Service",
+    "Level"
+  ],
+  "author": "Adrian Meza",
+  "license": "ISC"
+}
